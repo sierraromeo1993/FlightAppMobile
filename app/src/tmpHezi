@@ -1,0 +1,5 @@
+internal object HelloWorld {
+    fun main(args: Array<String?>?) {
+        System.out.println("Hello, World!")
+    }
+}
