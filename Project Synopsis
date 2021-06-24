@@ -1,4 +1,4 @@
-Project Synopsis & Features/File Structure/ Implementation of Main Files (app/manifests,Java,Java Generated,res)
+Project Synopsis & Features/File Structure/ Implementation of Main Files (app/manifests,Java,Java generated,res)
 
 
 PROJECT SYNOPSIS & Features : A Mobile App which allows it's user to set up his own connection to FlightGear API and 
@@ -25,7 +25,7 @@ Implementation of Main Files (manifests,java,layout) :
                              
                              java| Model.java              : The Business Logic of the App  
                              
-                             java| ViewModel               : The ViewModel of the App 
+                             java| ViewModel.java          : The ViewModel of the App 
                              
     
                              _________________________________________________________________________________________________________
