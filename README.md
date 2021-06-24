@@ -1,8 +1,8 @@
 
 
-Project name: AnomalyWebApp
+Project name: FlightAppMobile
 
-Description: A Web App use which allows it's users to upload given data-sets as either train data or test data and use them on different regression models and explore these results visually
+Description: A Mobile App build in Java for Android that allows the user to control a plane through the FlightGear API
 
 Table of Contents:
 
@@ -18,7 +18,8 @@ Table of Contents:
 
 5: CREDITS
 
-INSTALLATION REQUIRMENTS : OS : Windows 10 . PREFERED IDE OPTION : VS CODE, Node (latest stable version), NPM (if for some reason not installed with Node)
-
+INSTALLATION REQUIRMENTS : OS : Windows 10 . PREFERED IDE OPTION : Android Studio,Phone Model for Emulator: Pixel_3a_API_30_X86, 
+                           Api: android 11.0 (google APIs).
+ 
 FIRST USE : ONCE ALL INSTALLATION AND DEPENDENCIES REQUIREMENTS ARE MET AND YOU ARE IN THE IDE WINDOW. SEE VIDEO EXPLANATION ATTACHED
 
